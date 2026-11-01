@@ -1,0 +1,2 @@
+- Appendix for RLP with example and the 5 rules
+- Appendix for Merkle-Patricia Trie, link to LSM Tree and SSTable  

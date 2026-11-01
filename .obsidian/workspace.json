@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "c9e91b803b840852",
+    "type": "split",
+    "children": [
+      {
+        "id": "e908a9dc55bb950e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ab6a965c3ec8683",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Part 1 - EVM foundations/1.2 Transactions and fees.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 Transactions and fees"
+            }
+          },
+          {
+            "id": "b409e85f8713a517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcd6bfff64779a0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fa0fecff7761aa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d5fc69d0998eead",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "931d145704c4d940",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3867ebfe740df806",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c736416dae187298",
+    "type": "split",
+    "children": [
+      {
+        "id": "61ad0c89ad69a2c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1914aa48e29b212",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "163b601ebeec243e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b099825c345a6d2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "df513f9623176563",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "737937c210f2102c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b409e85f8713a517",
+  "lastOpenFiles": [
+    "Part 2 - Solidity internals/Part 2 - Solidity internals.md",
+    "Part 1 - EVM foundations/1.3 Execution model.md",
+    "Part 2 - Solidity internals/2.10 Version map of 0.8.x features.md",
+    "Part 2 - Solidity internals/2.9 Arithmetic and numeric pitfalls.md",
+    "Part 2 - Solidity internals/2.8 Errors and reverts.md",
+    "Part 2 - Solidity internals/2.7 Inheritance, interfaces and libraries.md",
+    "Part 2 - Solidity internals/2.6 Functions, modifiers and special functions.md",
+    "Part 1 - EVM foundations/1.2 Transactions and fees.md",
+    "Claude outputs/2.6 Functions, modifiers and special functions.md",
+    "Claude outputs/2.9 Arithmetic and numeric pitfalls.md",
+    "Claude outputs/2.7 Inheritance, interfaces and libraries.md",
+    "Claude outputs/2.8 Errors and reverts.md",
+    "Claude outputs/2.10 Version map of 0.8.x features.md",
+    "Claude outputs/1.2 Transactions and fees.md",
+    "Part 2 - Solidity internals/2.5 ABI encoding and decoding.md",
+    "Part 2 - Solidity internals/2.4 Memory layout.md",
+    "Part 2 - Solidity internals/2.3 Storage layout.md",
+    "Part 2 - Solidity internals/2.2 Data locations.md",
+    "Part 2 - Solidity internals/2.1 Types.md",
+    "Part 2 - Solidity internals",
+    "Home.md",
+    "Part 1 - EVM foundations/1.1 Accounts and world state.md",
+    "TODOs.md",
+    "Claude outputs/1.1 Accounts and world state.md",
+    "Claude outputs/1.9 Gas accounting.md"
+  ]
+}
