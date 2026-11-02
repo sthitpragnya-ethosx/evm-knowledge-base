@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Part 1 - EVM foundations/1.2 Transactions and fees.md",
+                "file": "Part 1 - EVM foundations/1.3 Execution model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Transactions and fees"
-            }
-          },
-          {
-            "id": "b409e85f8713a517",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
+              "title": "1.3 Execution model"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Part 1 - EVM foundations/1.3 Execution model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Part 1 - EVM foundations/1.3 Execution model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "Part 1 - EVM foundations/1.3 Execution model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,32 +188,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "b409e85f8713a517",
+  "active": "5ab6a965c3ec8683",
   "lastOpenFiles": [
-    "Part 2 - Solidity internals/Part 2 - Solidity internals.md",
-    "Part 1 - EVM foundations/1.3 Execution model.md",
-    "Part 2 - Solidity internals/2.10 Version map of 0.8.x features.md",
-    "Part 2 - Solidity internals/2.9 Arithmetic and numeric pitfalls.md",
-    "Part 2 - Solidity internals/2.8 Errors and reverts.md",
-    "Part 2 - Solidity internals/2.7 Inheritance, interfaces and libraries.md",
-    "Part 2 - Solidity internals/2.6 Functions, modifiers and special functions.md",
     "Part 1 - EVM foundations/1.2 Transactions and fees.md",
-    "Claude outputs/2.6 Functions, modifiers and special functions.md",
-    "Claude outputs/2.9 Arithmetic and numeric pitfalls.md",
-    "Claude outputs/2.7 Inheritance, interfaces and libraries.md",
-    "Claude outputs/2.8 Errors and reverts.md",
-    "Claude outputs/2.10 Version map of 0.8.x features.md",
-    "Claude outputs/1.2 Transactions and fees.md",
-    "Part 2 - Solidity internals/2.5 ABI encoding and decoding.md",
-    "Part 2 - Solidity internals/2.4 Memory layout.md",
-    "Part 2 - Solidity internals/2.3 Storage layout.md",
-    "Part 2 - Solidity internals/2.2 Data locations.md",
-    "Part 2 - Solidity internals/2.1 Types.md",
-    "Part 2 - Solidity internals",
-    "Home.md",
     "Part 1 - EVM foundations/1.1 Accounts and world state.md",
-    "TODOs.md",
-    "Claude outputs/1.1 Accounts and world state.md",
-    "Claude outputs/1.9 Gas accounting.md"
+    "Untitled.canvas",
+    "Part 3 - Yul and assembly/Part 3 - Yul and assembly.md",
+    "Part 3 - Yul and assembly/3.12 Beyond Yul - Huff and raw bytecode.md",
+    "Part 3 - Yul and assembly/3.11 Compiler IR and the optimizer.md",
+    "Part 3 - Yul and assembly/3.10 Yul objects and standalone contracts.md",
+    "Part 3 - Yul and assembly/3.9 Cleanup, dirty bits and safety.md",
+    "Part 3 - Yul and assembly/3.8 ABI, errors and events by hand.md",
+    "Part 3 - Yul and assembly/3.7 External calls in assembly.md",
+    "Part 3 - Yul and assembly/3.6 Storage, transient storage and bit packing.md",
+    "Part 3 - Yul and assembly/3.5 Memory management in assembly.md",
+    "Part 3 - Yul and assembly/3.4 Interop with Solidity.md",
+    "Part 3 - Yul and assembly/3.3 Opcodes by family.md",
+    "Part 3 - Yul and assembly/3.2 Syntax and control flow.md",
+    "Part 3 - Yul and assembly/3.1 What Yul is and when to use it.md",
+    "Part 3 - Yul and assembly",
+    "Part 1 - EVM foundations/1.3 Execution model.md",
+    "EVM-part3-kit/Part 3 - Yul and assembly/3.1 What Yul is and when to use it.md",
+    "Home.md",
+    "Claude outputs/3.4 Interop with Solidity.md",
+    "Claude outputs/3.5 Memory management in assembly.md",
+    "EVM-part3-kit/Part 3 - Yul and assembly/3.1 What Yul is and when to use it-1.md",
+    "EVM-part3-kit/Part 3 - Yul and assembly/3.2 Syntax and control flow-1.md",
+    "Claude outputs/3.3 Opcodes by family.md",
+    "EVM-part3-kit/part3-subagent-handover.md",
+    "EVM-part3-kit/vault-style-guide.md",
+    "EVM-part3-kit/tools/checknote.py",
+    "EVM-part3-kit/tools/harness.py",
+    "EVM-part3-kit/tools",
+    "EVM-part3-kit/Part 3 - Yul and assembly",
+    "EVM-part3-kit/claude",
+    "EVM-part3-kit",
+    "Part 2 - Solidity internals"
   ]
 }

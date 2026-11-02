@@ -2,7 +2,7 @@
 title: Home
 aliases: ["Index", "Vault home"]
 tags: [moc]
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 # EVM, Solidity and Yul — vault home
@@ -10,7 +10,7 @@ updated: 2026-10-30
 A guide from basics to expert level, written for relearning Solidity after a break and learning Yul from zero. Six parts, 66 notes. Each note teaches the topic, then ends with a question ladder (**B** basic · **I** intermediate · **A** advanced · **E** expert) with folded worked answers.
 
 > [!info] Status
-> Part 1 is expanded (29 Oct 2026). Part 2 is expanded (30 Oct 2026). Parts 3–6 are still outline only; their links are placeholders until each note is written. The original outline and interview round live in the Claude Doc "Expert Solidity Interview Questions & Learning Plan".
+> Part 1 is expanded (29 Oct 2026). Part 2 is expanded (30 Oct 2026). Part 3 is expanded (2 Nov 2026). Parts 4–6 are still outline only; their links are placeholders until each note is written. The original outline and interview round live in the Claude Doc "Expert Solidity Interview Questions & Learning Plan".
 
 
 ## Part 1 — EVM foundations
@@ -46,18 +46,20 @@ Index: [[Part 2 - Solidity internals]]
 
 ## Part 3 — Yul and assembly
 
-- [[3.1 What Yul is and when to use it]]
-- [[3.2 Syntax and control flow]]
-- [[3.3 Opcodes by family]]
-- [[3.4 Interop with Solidity]]
-- [[3.5 Memory management in assembly]]
-- [[3.6 Storage, transient storage and bit packing]]
-- [[3.7 External calls in assembly]]
-- [[3.8 ABI, errors and events by hand]]
-- [[3.9 Cleanup, dirty bits and safety]]
-- [[3.10 Yul objects and standalone contracts]]
-- [[3.11 Compiler IR and the optimizer]]
-- [[3.12 Beyond Yul - Huff and raw bytecode]]
+Index: [[Part 3 - Yul and assembly]]
+
+- [[3.1 What Yul is and when to use it]] — expanded
+- [[3.2 Syntax and control flow]] — expanded
+- [[3.3 Opcodes by family]] — expanded
+- [[3.4 Interop with Solidity]] — expanded
+- [[3.5 Memory management in assembly]] — expanded
+- [[3.6 Storage, transient storage and bit packing]] — expanded
+- [[3.7 External calls in assembly]] — expanded
+- [[3.8 ABI, errors and events by hand]] — expanded
+- [[3.9 Cleanup, dirty bits and safety]] — expanded
+- [[3.10 Yul objects and standalone contracts]] — expanded
+- [[3.11 Compiler IR and the optimizer]] — expanded
+- [[3.12 Beyond Yul - Huff and raw bytecode]] — expanded
 
 ## Part 4 — Architecture and patterns
 
